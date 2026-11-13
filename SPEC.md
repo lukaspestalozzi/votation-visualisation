@@ -140,16 +140,34 @@ voted yes" does not mean "foreigners voted yes" — foreigners cannot vote at
 all. The recalculated outcome is a thought experiment, not a forecast. The
 tool should make this clear to the user.
 
-## Open decisions for the rewrite
+## Decided for the rewrite
 
-Not part of the main idea, and not decided:
+- **A new home.** The rewrite is built in a new repository. This one stays as
+  it is, as the predecessor to learn from.
+- **Audience.** The curious public: anyone who knows what a Swiss popular vote
+  is.
+- **Period.** All national votes from 2013 to today. Each new vote day is
+  added.
+- **Languages.** German, French and Italian, for the interface and for the
+  vote titles.
+- **On a phone.** The map, the limits and the verdicts are usable on a small
+  touch screen.
+- **Share.** A link reproduces a chosen vote together with all limits, so a
+  finding can be passed on.
+- **Compare.** The same selection of municipalities can be applied to two
+  votes side by side.
+- **More characteristics.** Further figures per municipality, beyond those of
+  the first version.
+- **Open and private.** Only public sources, each named. All data can be
+  regenerated from them. No accounts and no tracking of users.
 
-- Who is the audience: the curious public, journalists, teachers, researchers?
-- Which period should it cover, and should new votes be added as they happen?
-- Which languages should the interface and the vote titles be in?
+## Still open
+
+- The name of the product.
+- What belongs to the first release and in which order the rest follows.
 - Which further characteristics are wanted (income, education, religion,
-  urban or rural type, ...)?
-- Should it also show results by canton or district, not only by
-  municipality?
-- Should a user be able to compare two votes, or save and share a selection?
-- Should it work on a phone?
+  urban or rural type, ...).
+- Whether the public sources offer every vote since 2013 per municipality,
+  and the characteristics for matching years. Not yet verified.
+- A view by canton or district, and an English version, have not been asked
+  for.
